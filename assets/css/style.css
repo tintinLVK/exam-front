@@ -1,0 +1,36 @@
+body {
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.carambarco.com%2Fproduit%2Fcarambar-minis-fete%2F&psig=AOvVaw0oLnSQJSllZRP06IhM1_3f&ust=1717592695245000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNid18WBwoYDFQAAAAAdAAAAABAE');
+    color: black;
+}
+
+#btnrandom{
+    cursor: pointer;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 20%;
+    top: 10%;
+    left: 40%;
+    border-radius: 100px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#question{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    top: 20%;
+    left: 40%;
+}
+
+#reponse{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    top: 25%;
+    left: 40%;
+}
